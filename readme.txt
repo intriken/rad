@@ -23,3 +23,7 @@ Then all the files in the serial_drive are moved to the serial_drive_completed d
 A Hive formatted table in hdfs files are crated named BIKE_INFO
 
 I also output a CSV of the table to the output directory
+
+
+--DAILY RUN--
+use cron or airflow to run at (0 0 0 ? * * * ) 00:00:00am every day
