@@ -22,4 +22,4 @@ Then all the files in the serial_drive are moved to the serial_drive_completed d
 --OUTPUTS--
 A Hive formatted table in hdfs files are crated named BIKE_INFO
 
-I also outputed a CSV of the table to the output directory
+I also output a CSV of the table to the output directory
